@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32081'
     url: http://www.gutenberg.org/2009/agents/32081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26542#On-The-Affinities-of-Leptarctus-primus-of-LeidyAmerican-Museum-of-Natural-History-Vol.-VI-Art_
 gutenberg_issued: '2008-09-05'
 gutenberg_type: Text
 identifiers:
