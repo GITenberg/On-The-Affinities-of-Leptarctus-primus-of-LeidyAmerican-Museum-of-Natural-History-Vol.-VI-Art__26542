@@ -1,0 +1,29 @@
+_repo: On-The-Affinities-of-Leptarctus-primus-of-LeidyAmerican-Museum-of-Natural-History-Vol.-VI-Art__26542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wortman, Jacob Lawson
+    gutenberg_agent_id: '32081'
+    url: http://www.gutenberg.org/2009/agents/32081
+description: ''
+gutenberg_issued: '2008-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26542'
+  lccn: '42049494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leptarctus primus'
+- !lcc 'QH'
+- !lcsh 'Paleontology -- Nebraska'
+- !lcsh 'Paleontology -- Miocene'
+title: 'On The Affinities of Leptarctus primus of Leidy
+
+  American Museum of Natural History, Vol. VI, Article VIII, pp. 229-331.'
+url: http://www.gutenberg.org/ebooks/26542
